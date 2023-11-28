@@ -1,0 +1,2 @@
+# yangi-akavunt
+html,css
